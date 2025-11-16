@@ -1,4 +1,4 @@
-### Hi there, i'm Ilya (gox7)
+### Hi there, i'm Ilya (dockgo)
 
 I'm a backend developer focused on building scalable, secure and maintainable systems in Go.
 I work on libraries, microservices and infrastructure-level tools.
