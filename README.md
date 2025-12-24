@@ -1,4 +1,4 @@
-### Hi there, i'm Ilya (dockgo)
+### Hi there, i'm Ilya
 
 I'm a backend developer focused on building scalable, secure and maintainable systems in Go.
 I work on libraries, microservices and infrastructure-level tools.
@@ -16,7 +16,6 @@ Contributor to my own OSS projects and open to collaboration.
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=blue)
 ![gRPC](https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=grpc&logoColor=blue)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=blue)
 ![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=blue)
@@ -43,4 +42,4 @@ Contributor to my own OSS projects and open to collaboration.
 ---
 
 📬 Contact me:
-[Telegram](https://t.me/sex1nk) • [Email](mailto:maslennikov0120@gmail.com)
+[Telegram](https://t.me/losthq) • [Email](mailto:maslennikov0120@gmail.com)
