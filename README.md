@@ -42,4 +42,4 @@ Contributor to my own OSS projects and open to collaboration.
 ---
 
 📬 Contact me:
-[Telegram](https://t.me/losthq) • [Email](mailto:maslennikov0120@gmail.com)
+[Telegram](https://t.me/losthq) • [Email](mailto:soon)
