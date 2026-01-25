@@ -42,4 +42,4 @@ Contributor to my own OSS projects and open to collaboration.
 ---
 
 📬 Contact me:
-[Telegram](https://t.me/losthq) • [Email](mailto:soon)
+[Telegram](https://t.me/hawokdev) • [Email](mailto:soon)
